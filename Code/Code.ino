@@ -1,5 +1,5 @@
 const int enPin = 8;
-const int buttonPin = A0; // Using A0 as the safety switch pin, labelled 'abort'pin
+const int buttonPin = A0; // Using A0 as the safety switch pin, labelled 'abort'pin and GND
 
 // X Axis Pins
 const int stepXPin = 2;
